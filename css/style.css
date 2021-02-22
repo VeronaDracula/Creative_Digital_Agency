@@ -13,14 +13,19 @@
 }
 .nav-item{
     font-size: 1.25em;
+
 }
 .menu .nav-item{
     margin-right: 1.5em !important;
 }
+.social_icons{
+    margin-right: 0;
+    margin-bottom: 0;
+}
 .social_icons .nav-item{
-    margin-right: 0.5em !important;
     padding-bottom: 30px;
     padding-top: 20px;
+    display: inline-block;
 }
 .menu .nav-link{
     padding: 39px 0!important;
