@@ -52,7 +52,7 @@
 }
 
 .page1{
-    background-image: url("../img/Layer 96.png");
+    background-image: url("../images/Layer 96.png");
     background-attachment: fixed;
     background-size: cover;
     background-position: top center;
@@ -226,7 +226,7 @@
 
 
 .page6{
-    background-image: url("../img/Layer 87.png");
+    background-image: url("../images/Layer 87.png");
     color: white;
 }
 .page6 .photo{
@@ -245,20 +245,20 @@
     margin-bottom: 30px;
 }
 .page6 .line1{
-    background-image: url("../img/Rectangle 7.png");
+    background-image: url("../images/Rectangle 7.png");
     background-repeat: no-repeat;
     padding: 5px 0 5px 20px;
     font-size: 0.94em;
     margin-top: 55px;
 }
 .page6 .line2{
-    background-image: url("../img/Rectangle 7 copy.png");
+    background-image: url("../images/Rectangle 7 copy.png");
     background-repeat: no-repeat;
     padding: 5px 0 5px 20px;
     font-size: 0.94em;
 }
 .page6 .line3{
-    background-image: url("../img/Rectangle 7 copy 2.png");
+    background-image: url("../images/Rectangle 7 copy 2.png");
     background-repeat: no-repeat;
     padding: 5px 0 5px 20px;
     font-size: 0.94em;
@@ -313,7 +313,7 @@
 
 
 .page8{
-    background-image: url("../img/Layer 97.png");
+    background-image: url("../images/Layer 97.png");
     color: white;
 }
 .page8 h2{
