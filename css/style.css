@@ -51,48 +51,15 @@
     border: 1px solid #FFFFFF;
 }
 
-.page1{
-    background-image: url("../images/Layer 96.png");
-    background-attachment: fixed;
-    background-size: cover;
-    background-position: top center;
-}
 
 .page1 .down{
     padding-bottom: 109px;
 }
-.page1 .line{
-    border-top: 1px solid #747474;
-}
 
-.page1 .row {
-    justify-content: center;
-}
-.description{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-top: 13%;
-}
-.description .title{
-    text-align: center;
-    font-size: 8.75em;
-    color: white;
-    font-weight: bold;
-    margin-bottom: 0;
-}
-.description .text{
-    text-align: center;
-    font-size: 1.25em;
-    color: #11749e;
-    letter-spacing: 0.8em;
-}
-.text_down{
-    font-size: 0.94em;
-    color: white;
-    margin-top: 70px;
-    text-align: center;
-}
+
+
+
+
 
 
 
