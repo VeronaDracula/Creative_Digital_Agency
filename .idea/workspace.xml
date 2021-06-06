@@ -2,40 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdc1d409-1eb1-424d-a91a-6fbd23c99339" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Ellipse 1 copy 3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Ellipse 1 copy 3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Layer 77.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Layer 77.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Layer 81.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Layer 81.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Layer 82.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Layer 82.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Layer 83.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Layer 83.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Layer 84.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Layer 84.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Layer 85.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Layer 85.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Layer 87.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Layer 87.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Layer 88.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Layer 88.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Layer 90.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Layer 90.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Layer 93.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Layer 93.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Layer 94.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Layer 94.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Layer 96.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Layer 96.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Layer 97.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Layer 97.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Layer 98.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Layer 98.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Rectangle 1 copy.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Rectangle 1 copy.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Rectangle 7 copy 2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Rectangle 7 copy 2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Rectangle 7 copy.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Rectangle 7 copy.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Rectangle 7.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Rectangle 7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Search (and thou shall find).png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Search (and thou shall find).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Simon says.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Simon says.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Write copy 3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Write copy 3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Write copy.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Write copy.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Write.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Write.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/facebook.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/facebook.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/in.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/in.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/scroll_down.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/scroll_down.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/skype.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/skype.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/twitter.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/twitter.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/© 2016 PSDfreebies.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/© 2016 PSDfreebies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/page/page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -83,7 +54,7 @@
       <workItem from="1613413651784" duration="3561000" />
       <workItem from="1613892512111" duration="8429000" />
       <workItem from="1622388966848" duration="619000" />
-      <workItem from="1622996365835" duration="966000" />
+      <workItem from="1622996365835" duration="3309000" />
     </task>
     <task id="LOCAL-00001" summary="font-size1">
       <created>1613296424388</created>
@@ -162,7 +133,28 @@
       <option name="project" value="LOCAL" />
       <updated>1614083569239</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="new files">
+      <created>1623002525452</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1623002525452</updated>
+    </task>
+    <task id="LOCAL-00013" summary="new files">
+      <created>1623002657445</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1623002657445</updated>
+    </task>
+    <task id="LOCAL-00014" summary="new files">
+      <created>1623002738933</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1623002738933</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,24 +172,21 @@
     <MESSAGE value="media -&gt; medium2" />
     <MESSAGE value="media -&gt; medium3" />
     <MESSAGE value="media -&gt; sm + exSm" />
-    <option name="LAST_COMMIT_MESSAGE" value="media -&gt; sm + exSm" />
+    <MESSAGE value="new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="new files" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="63" width="1089" height="761" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614013481386">
+    <state x="721" y="0" key="CommitChangelistDialog2" timestamp="1623002738560">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="63" width="1089" height="761" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1614013481386" />
-    <state x="368" y="0" key="CommitChangelistDialog2" timestamp="1614083568780">
+    <state x="721" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1623002738560" />
+    <state x="662" y="146" key="Vcs.Push.Dialog.v2" timestamp="1623002744073">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="368" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1614083568780" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1614013477840">
+    <state x="662" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1623002744073" />
+    <state x="887" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1623002944810">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1614013477840" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1614083573738">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1614083573738" />
+    <state x="887" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1623002944810" />
   </component>
 </project>
