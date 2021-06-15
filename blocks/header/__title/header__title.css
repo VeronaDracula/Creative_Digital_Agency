@@ -1,7 +1,10 @@
 .header__title  {
     text-align: center;
-    font-size: 8.75em;
-    color: white;
+    font-size: 153px;
+    color: #f5f5f5;
     font-weight: bold;
-    margin-bottom: 0;
+    font-family: "Gotham", sans-serif;
+    letter-spacing: -8px;
+    text-transform: uppercase;
+    margin-bottom: 39px;
 }

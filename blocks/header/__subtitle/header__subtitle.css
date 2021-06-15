@@ -1,6 +1,11 @@
 .header__subtitle  {
     text-align: center;
-    font-size: 1.25em;
+    font-size: 25px;
+    letter-spacing: 19px;
     color: #11749e;
-    letter-spacing: 0.8em;
+    line-height: 51px;
+    font-weight: 500;
+    font-family: "Gotham", sans-serif;
+    text-transform: uppercase;
+    margin: 0 0 80px 0;
 }

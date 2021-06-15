@@ -1,6 +1,8 @@
 .scroll-down__text  {
-    font-size: 0.94em;
-    color: white;
-    margin-top: 70px;
+    font-size: 13px;
     text-align: center;
+    line-height: 22px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: 'OpenSans', sans-serif;
 }

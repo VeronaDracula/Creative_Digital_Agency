@@ -24,3 +24,10 @@
     font-family: 'Myriad';
     font-weight: normal;
 }
+
+@font-face {
+    src: url(../fonts/OpenSans-Regular.woff2) format('woff2'),
+         url(../fonts/OpenSans-Regular.woff) format('woff');
+    font-family: 'OpenSans';
+    font-weight: 400;
+}

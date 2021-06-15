@@ -1,3 +1,7 @@
 .header__menu-social-link {
     text-decoration: none;
 }
+
+.header__menu-social-link:hover {
+    opacity: 0.6;
+}

@@ -1,0 +1,12 @@
+.scroll-down__button {
+    background: transparent center url("../../../images/ScrollDown.svg");
+    background-size: auto;
+    border: none;
+    width: 68px;
+    height: 68px;
+}
+
+.scroll-down__button:hover {
+    cursor: pointer;
+    opacity: 0.6;
+}
