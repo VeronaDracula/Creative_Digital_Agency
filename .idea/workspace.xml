@@ -2,24 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdc1d409-1eb1-424d-a91a-6fbd23c99339" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blocks/header/__content/header__content.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__line/header__line.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__menu-info-link/header__menu-info-link.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__menu-info-links/header__menu-info-links.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__menu-info/header__menu-info.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__menu-social-link/header__menu-social-link.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__menu-social-links/header__menu-social-links.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__menu-social/header__menu-social.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__subtitle/header__subtitle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__title/header__title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/scroll-down/__button/scroll-down__button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/scroll-down/__text/scroll-down__text.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/scroll-down/scroll-down.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__menu-social-item/header__menu-social-item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__menu-without-logo/header__menu-without-logo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__menu/header__menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__social-icon/header__social-icon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/logo/logo.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__line/header__line.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__menu-info-link/header__menu-info-link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__menu-info-link/header__menu-info-link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__menu-info-links/header__menu-info-links.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__menu-container/header__menu-container.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__menu-info/header__menu-info.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__menu-info/header__menu-info.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__menu-social-link/header__menu-social-link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__menu-social-link/header__menu-social-link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__menu-social-links/header__menu-social-links.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__menu-info-item/header__menu-info-item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__menu-social/header__menu-social.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__menu-social/header__menu-social.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Ellipse 1 copy 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Layer 88.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Layer 90.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Layer 96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Search (and thou shall find).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Simon says.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Write copy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Write.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +51,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/Creative_Digital_Agency" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -68,7 +75,8 @@
       <workItem from="1613413651784" duration="3561000" />
       <workItem from="1613892512111" duration="8429000" />
       <workItem from="1622388966848" duration="619000" />
-      <workItem from="1622996365835" duration="6239000" />
+      <workItem from="1622996365835" duration="7495000" />
+      <workItem from="1623689011785" duration="17922000" />
     </task>
     <task id="LOCAL-00001" summary="font-size1">
       <created>1613296424388</created>
@@ -182,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623005463483</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="header">
+      <created>1623007888994</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1623007888994</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,14 +221,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="header" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="721" y="0" key="CommitChangelistDialog2" timestamp="1623005463018">
+    <state x="721" y="0" key="CommitChangelistDialog2" timestamp="1623007888366">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="721" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1623005463018" />
-    <state x="662" y="146" key="Vcs.Push.Dialog.v2" timestamp="1623002744073">
+    <state x="721" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1623007888366" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1623771315244">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="662" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1623002744073" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1623771315244" />
+    <state x="662" y="146" key="Vcs.Push.Dialog.v2" timestamp="1623007895102">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="662" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1623007895102" />
     <state x="887" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1623004954656">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

@@ -1,17 +1,26 @@
 @font-face {
-    src: url(../fonts/Inter-Regular.woff);
-    font-family: 'Inter';
+    src: url(../fonts/Gotham-Bold.woff2) format('woff2'),
+         url(../fonts/Gotham-Bold.woff) format('woff');
+    font-family: 'Gotham';
+    font-weight: bold;
+}
+
+@font-face {
+    src: url(../fonts/Gotham-Book.woff2) format('woff2'),
+         url(../fonts/Gotham-Book.woff) format('woff');
+    font-family: 'Gotham';
     font-weight: normal;
 }
 
 @font-face {
-    src: url(../fonts/Inter-Black.woff);
-    font-family: 'Inter';
-    font-weight: 900;
+    src: url(../fonts/Gotham-Medium.woff2) format('woff2'),
+         url(../fonts/Gotham-Medium.woff) format('woff');
+    font-family: 'Gotham';
+    font-weight: 500;
 }
 
 @font-face {
-    src: url(../fonts/Inter-Bold.woff);
-    font-family: 'Inter';
-    font-weight: bold;
+    src: url(../fonts/MyriadProRegular.woff);
+    font-family: 'Myriad';
+    font-weight: normal;
 }

@@ -1,0 +1,23 @@
+.header__menu-info-item {
+    margin-right: 61px;
+    position: relative;
+}
+
+.header__menu-info-item:last-child {
+    margin-right: 0;
+}
+
+
+.header__menu-info-item::after {
+    background-color: #11749e;
+    display: block;
+    content: "";
+    height: 5px;
+    width: 0;
+    margin-top: 39px;
+    position: absolute;
+}
+
+.header__menu-info-item:hover::after {
+    width: 100%;
+}

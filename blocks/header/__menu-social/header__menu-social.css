@@ -1,0 +1,6 @@
+.header__menu-social {
+    display: flex;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}

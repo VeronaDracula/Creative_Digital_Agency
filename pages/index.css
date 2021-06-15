@@ -3,6 +3,23 @@
 
 @import url(../blocks/page/page.css);
 
+@import url(../blocks/logo/logo.css);
+
 @import url(../blocks/header/header.css);
+@import url(../blocks/header/__menu/header__menu.css);
+@import url(../blocks/header/__menu-container/header__menu-container.css);
+@import url(../blocks/header/__menu-without-logo/header__menu-without-logo.css);
+@import url(../blocks/header/__menu-info/header__menu-info.css);
+@import url(../blocks/header/__menu-info-item/header__menu-info-item.css);
+@import url(../blocks/header/__menu-info-link/header__menu-info-link.css);
+@import url(../blocks/header/__menu-social/header__menu-social.css);
+@import url(../blocks/header/__menu-social-item/header__menu-social-item.css);
+@import url(../blocks/header/__menu-social-link/header__menu-social-link.css);
+@import url(../blocks/header/__social-icon/header__social-icon.css);
+@import url(../blocks/header/__content/header__content.css);
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
+
+@import url(../blocks/scroll-down/scroll-down.css);
+@import url(../blocks/scroll-down/__text/scroll-down__text.css);
+@import url(../blocks/scroll-down/__button/scroll-down__button.css);

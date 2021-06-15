@@ -1,0 +1,7 @@
+.header__menu-social-item {
+    margin-right: 32px;
+}
+
+.header__menu-social-item:last-child {
+    margin-right: 0;
+}
