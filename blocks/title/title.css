@@ -1,0 +1,9 @@
+.title {
+    height: 178px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

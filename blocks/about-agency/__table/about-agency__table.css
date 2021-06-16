@@ -1,0 +1,7 @@
+.about-agency__table {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(258px, 1fr));
+    justify-items: center;
+    gap: 48px;
+
+}

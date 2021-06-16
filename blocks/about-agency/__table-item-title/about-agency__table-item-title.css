@@ -1,0 +1,10 @@
+.about-agency__table-item-title {
+    margin: 0 0 34px 0;
+    font-size: 18px;
+    line-height: 28px;
+    color: #fff;
+    font-weight: 500;
+    font-family: "Gotham", sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+}

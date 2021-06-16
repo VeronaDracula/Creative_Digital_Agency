@@ -1,6 +1,4 @@
 .header__menu-container {
-    width: 80%;
-    margin: 0 auto;
     min-height: 115px;
     display: flex;
     justify-content: space-between;
