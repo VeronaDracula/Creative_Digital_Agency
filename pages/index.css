@@ -35,3 +35,7 @@
 @import url(../blocks/about-agency/__table-item-image/about-agency__table-item-image.css);
 @import url(../blocks/about-agency/__table-item-title/about-agency__table-item-title.css);
 @import url(../blocks/about-agency/__table-item-text/about-agency__table-item-text.css);
+
+@import url(../blocks/news/news.css);
+@import url(../blocks/news/__content/news__content.css);
+@import url(../blocks/news/__image/news__image.css);

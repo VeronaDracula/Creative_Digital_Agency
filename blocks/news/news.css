@@ -1,0 +1,12 @@
+.news {
+    display: grid;
+
+    min-height: 921px;
+    grid-template-columns: repeat(2, 50%);
+    grid-template-rows: repeat(2, auto);
+
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+}
