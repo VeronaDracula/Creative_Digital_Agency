@@ -75,5 +75,17 @@
 @import url(../blocks/key-feature/__image-container/key-feature__image-container.css);
 @import url(../blocks/key-feature/__image/key-feature__image.css);
 
+@import url(../blocks/team/team.css);
+@import url(../blocks/team/__container/team__container.css);
+@import url(../blocks/team/__subtitle/team__subtitle.css);
+@import url(../blocks/team/__cards/team__cards.css);
+@import url(../blocks/team/__card/team__card.css);
+@import url(../blocks/team/__card-image/team__card-image.css);
+@import url(../blocks/team/__card-text/team__card-text.css);
+@import url(../blocks/team/__card-name/team__card-name.css);
+@import url(../blocks/team/__card-job/team__card-job.css);
+
+
+
 
 
