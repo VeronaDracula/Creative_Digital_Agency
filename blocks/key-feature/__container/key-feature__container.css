@@ -1,0 +1,8 @@
+.key-feature__container {
+    min-height: 848px;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(570px, 1fr));
+}

@@ -1,0 +1,11 @@
+.key-feature__feature {
+    min-height: 38px;
+    background: #11749e;
+    margin-bottom: 24px;
+    display: flex;
+    align-items: center;
+}
+
+.key-feature__feature:last-child {
+    margin-bottom: 0;
+}
