@@ -1,0 +1,12 @@
+.quick-action__container {
+    min-height: 355px;
+    padding-top: 114px;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(570px, 1fr));
+    justify-items: center;
+    gap: 45px;
+}

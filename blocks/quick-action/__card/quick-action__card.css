@@ -1,0 +1,4 @@
+.quick-action__card {
+    display: flex;
+    align-items: flex-start;
+}
