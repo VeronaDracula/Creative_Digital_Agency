@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdc1d409-1eb1-424d-a91a-6fbd23c99339" name="Default Changelist" comment="c">
-      <change afterPath="$PROJECT_DIR$/blocks/contacts/__container/contacts__container.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/form/__button/form__button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/form/__data-input/form__data-input.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/form/__item/_type/form__item_type_message.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/form/__item/form__item.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/form/__label/form__label.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/form/form.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/map/__iframe/map__iframe.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/map/map.css" afterDir="false" />
+    <list default="true" id="fdc1d409-1eb1-424d-a91a-6fbd23c99339" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__container/footer__container.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__design/footer__design.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/footer.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Layer 77.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/fonts.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +60,7 @@
       <workItem from="1613892512111" duration="8429000" />
       <workItem from="1622388966848" duration="619000" />
       <workItem from="1622996365835" duration="7495000" />
-      <workItem from="1623689011785" duration="58429000" />
+      <workItem from="1623689011785" duration="59402000" />
     </task>
     <task id="LOCAL-00001" summary="font-size1">
       <created>1613296424388</created>
@@ -261,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624033141132</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="contacts">
+      <created>1624041805349</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1624041805349</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,25 +295,26 @@
     <MESSAGE value="key-feature" />
     <MESSAGE value="team names" />
     <MESSAGE value="team" />
-    <option name="LAST_COMMIT_MESSAGE" value="team" />
+    <MESSAGE value="contacts" />
+    <option name="LAST_COMMIT_MESSAGE" value="contacts" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623786053693">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1623786053693" />
-    <state x="595" y="36" width="745" height="725" key="CommitChangelistDialog2" timestamp="1624041664588">
+    <state x="595" y="36" width="745" height="725" key="CommitChangelistDialog2" timestamp="1624041804749">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="595" y="36" width="745" height="725" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1624041664588" />
+    <state x="595" y="36" width="745" height="725" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1624041804749" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1623771315244">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1623771315244" />
-    <state x="662" y="146" key="Vcs.Push.Dialog.v2" timestamp="1624033145948">
+    <state x="662" y="146" key="Vcs.Push.Dialog.v2" timestamp="1624041808384">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="662" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1624033145948" />
+    <state x="662" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1624041808384" />
     <state x="887" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1623788154652">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
