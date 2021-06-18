@@ -1,0 +1,5 @@
+.team__card-image {
+    width: 270px;
+    height: 414px;
+    object-fit: cover;
+}

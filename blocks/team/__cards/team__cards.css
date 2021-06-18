@@ -1,0 +1,6 @@
+.team__cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+    justify-items: center;
+    gap: 30px;
+}

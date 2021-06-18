@@ -1,0 +1,7 @@
+.team__container {
+    min-height: 944px;
+    padding-top: 67px;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}

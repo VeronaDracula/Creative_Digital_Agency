@@ -1,0 +1,11 @@
+.team__card-text {
+    background: #FFFFFF;
+    width: 216px;
+    min-height: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: -48px;
+}
