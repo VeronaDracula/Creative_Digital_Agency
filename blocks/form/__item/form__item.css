@@ -1,0 +1,12 @@
+.form__item {
+    width: 370px;
+    height: 48px;
+    background-color: rgba(128,128,128,0);
+    border: 1px solid #ffffff;
+    padding-left: 21px;
+    margin: 0 0 39px 0;
+
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}

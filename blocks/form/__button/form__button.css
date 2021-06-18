@@ -1,0 +1,12 @@
+.form__button {
+    background: #11749e;
+    width: 227px;
+    height: 64px;
+    font-size: 24px;
+    line-height: 24px;
+    color: #ffffff;
+    font-weight: 500;
+    font-family: "Gotham", sans-serif;
+    border: 0;
+    text-transform: uppercase;
+}

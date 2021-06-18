@@ -1,0 +1,6 @@
+.form__item_type_message {
+    width: 100%;
+    min-height: 151px;
+    margin: 0 0 46px 0;
+    display: grid;
+}
