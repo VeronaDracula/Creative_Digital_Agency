@@ -8,3 +8,22 @@
     text-transform: uppercase;
     margin-bottom: 39px;
 }
+
+
+@media screen and (max-width: 1280px) {
+    .header__title {
+        font-size: 153px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .header__title {
+        font-size: 120px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .header__title {
+        font-size: 85px;
+    }
+}

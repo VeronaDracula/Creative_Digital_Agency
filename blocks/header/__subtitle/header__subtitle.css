@@ -9,3 +9,15 @@
     text-transform: uppercase;
     margin: 0 0 80px 0;
 }
+
+@media screen and (max-width: 1024px) {
+    .header__subtitle {
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .header__subtitle {
+        font-size: 15px;
+    }
+}

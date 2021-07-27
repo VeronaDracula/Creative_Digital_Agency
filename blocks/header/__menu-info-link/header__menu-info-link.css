@@ -6,3 +6,21 @@
     font-weight: normal;
 }
 
+@media screen and (max-width: 1280px) {
+    .header__menu-info-link {
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .header__menu-info-link {
+        font-size: 15px;
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+    .header__menu-info-link {
+        font-size: 14px;
+    }
+}

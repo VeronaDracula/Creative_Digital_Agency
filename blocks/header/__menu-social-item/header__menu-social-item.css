@@ -5,3 +5,15 @@
 .header__menu-social-item:last-child {
     margin-right: 0;
 }
+
+@media screen and (max-width: 1280px) {
+    .header__menu-social-item {
+        margin-right: 15px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .header__menu-social-item {
+        margin-right: 15px;
+    }
+}

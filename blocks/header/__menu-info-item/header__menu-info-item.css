@@ -20,3 +20,28 @@
 .header__menu-info-item:hover::after {
     width: 100%;
 }
+
+
+@media screen and (max-width: 1280px) {
+    .header__menu-info-item {
+        margin-right: 45px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .header__menu-info-item {
+        margin-right: 25px;
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+    .header__menu-info-item {
+        margin-right: 7px;
+    }
+
+    .header__menu-info-item::after {
+        height: 3px;
+        margin-top: 1px;
+    }
+}
