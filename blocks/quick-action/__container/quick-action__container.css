@@ -10,3 +10,15 @@
     justify-items: center;
     gap: 45px;
 }
+
+@media screen and (max-width: 1490px) {
+    .quick-action__container {
+        padding-bottom: 45px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .quick-action__container {
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    }
+}
