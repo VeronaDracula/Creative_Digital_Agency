@@ -3,22 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="fdc1d409-1eb1-424d-a91a-6fbd23c99339" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/about-agency/__table/about-agency__table.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/about-agency/__table/about-agency__table.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__menu-info-item/header__menu-info-item.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__menu-info-item/header__menu-info-item.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__menu-info-link/header__menu-info-link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__menu-info-link/header__menu-info-link.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__menu-info/header__menu-info.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__menu-info/header__menu-info.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__menu-social-item/header__menu-social-item.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__menu-social-item/header__menu-social-item.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__menu-without-logo/header__menu-without-logo.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__menu-without-logo/header__menu-without-logo.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/header/__subtitle/header__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__subtitle/header__subtitle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/header/__title/header__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__title/header__title.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/logo/logo.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/logo/logo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-3.5.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/js.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +60,7 @@
       <workItem from="1624356520104" duration="1324000" />
       <workItem from="1624625245940" duration="18000" />
       <workItem from="1624897254840" duration="39000" />
-      <workItem from="1626675197494" duration="19424000" />
+      <workItem from="1626675197494" duration="20968000" />
     </task>
     <task id="LOCAL-00001" summary="font-size1">
       <created>1613296424388</created>
@@ -313,14 +300,20 @@
       <option name="project" value="LOCAL" />
       <updated>1624043520542</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="menu">
+      <created>1627413240518</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1627413240518</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="font-size2" />
     <MESSAGE value="font-size3" />
     <MESSAGE value="background page1" />
     <MESSAGE value="media -&gt; medium" />
@@ -345,17 +338,18 @@
     <MESSAGE value="images" />
     <MESSAGE value="button:hover" />
     <MESSAGE value="alt" />
-    <option name="LAST_COMMIT_MESSAGE" value="alt" />
+    <MESSAGE value="menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="menu" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624443497376">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1624443497376" />
-    <state x="595" y="36" width="745" height="725" key="CommitChangelistDialog2" timestamp="1624043519999">
+    <state x="595" y="36" width="745" height="725" key="CommitChangelistDialog2" timestamp="1627413239851">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="595" y="36" width="745" height="725" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1624043519999" />
+    <state x="595" y="36" width="745" height="725" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1627413239851" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1624625261022">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
