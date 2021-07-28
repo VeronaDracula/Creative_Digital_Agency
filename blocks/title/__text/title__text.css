@@ -7,3 +7,9 @@
     text-align: center;
     text-transform: uppercase;
 }
+
+@media screen and (max-width: 768px) {
+    .title__text {
+        font-size: 28px;
+    }
+}
