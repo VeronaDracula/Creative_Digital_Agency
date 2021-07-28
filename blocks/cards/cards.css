@@ -4,3 +4,15 @@
     justify-items: center;
     gap: 29px;
 }
+
+@media screen and (min-width: 1080px) and (max-width: 1480px) {
+    .cards {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media screen and (max-width: 1480px) {
+    .cards {
+        padding-bottom: 29px;
+    }
+}
