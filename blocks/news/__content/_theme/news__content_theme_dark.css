@@ -5,3 +5,9 @@
     padding-right: 10%;
     padding-top: 75px;
 }
+
+@media screen and (max-width: 768px) {
+    .news__content_theme_dark {
+
+    }
+}

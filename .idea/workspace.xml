@@ -3,7 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="fdc1d409-1eb1-424d-a91a-6fbd23c99339" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/about-agency/__table/about-agency__table.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/about-agency/__table/about-agency__table.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/news/__content/_theme/news__content_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/news/__content/_theme/news__content_theme_dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/news/__content/_theme/news__content_theme_photo.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/news/__content/_theme/news__content_theme_photo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/news/__content/_theme/news__text_theme_light.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/news/__content/_theme/news__content_theme_light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/news/__text/news__text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/news/__text/news__text.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/news/__title/news__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/news/__title/news__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/news/news.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/news/news.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +65,7 @@
       <workItem from="1624356520104" duration="1324000" />
       <workItem from="1624625245940" duration="18000" />
       <workItem from="1624897254840" duration="39000" />
-      <workItem from="1626675197494" duration="22343000" />
+      <workItem from="1626675197494" duration="24418000" />
     </task>
     <task id="LOCAL-00001" summary="font-size1">
       <created>1613296424388</created>
@@ -312,14 +319,20 @@
       <option name="project" value="LOCAL" />
       <updated>1627480229769</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="about agency">
+      <created>1627481777559</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1627481777559</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="font-size3" />
     <MESSAGE value="background page1" />
     <MESSAGE value="media -&gt; medium" />
     <MESSAGE value="media -&gt; medium(menu)" />
@@ -344,25 +357,26 @@
     <MESSAGE value="alt" />
     <MESSAGE value="menu" />
     <MESSAGE value="header" />
-    <option name="LAST_COMMIT_MESSAGE" value="header" />
+    <MESSAGE value="about agency" />
+    <option name="LAST_COMMIT_MESSAGE" value="about agency" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624443497376">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1624443497376" />
-    <state x="595" y="36" width="745" height="725" key="CommitChangelistDialog2" timestamp="1627480229255">
+    <state x="595" y="36" width="745" height="725" key="CommitChangelistDialog2" timestamp="1627481777094">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="595" y="36" width="745" height="725" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1627480229255" />
+    <state x="595" y="36" width="745" height="725" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1627481777094" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1624625261022">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1624625261022" />
-    <state x="662" y="146" key="Vcs.Push.Dialog.v2" timestamp="1624043524714">
+    <state x="662" y="146" key="Vcs.Push.Dialog.v2" timestamp="1627481781594">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="662" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1624043524714" />
+    <state x="662" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1627481781594" />
     <state x="887" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1623788154652">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

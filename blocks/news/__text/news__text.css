@@ -9,3 +9,10 @@
 .news__text:last-child {
     margin-bottom: 0;
 }
+
+
+@media screen and (max-width: 1024px) {
+    .news__text:last-child {
+        padding-bottom: 36px;
+    }
+}
