@@ -1,3 +1,16 @@
 .key-feature__feature_line_1 {
     width: 370px;
 }
+
+
+@media screen and (min-width: 1024px) {
+    .key-feature__feature_line_1 {
+        width: 370px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .key-feature__feature_line_1 {
+        width: 300px;
+    }
+}

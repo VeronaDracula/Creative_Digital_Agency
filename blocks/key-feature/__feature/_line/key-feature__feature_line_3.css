@@ -1,3 +1,9 @@
 .key-feature__feature_line_3 {
     width: 428px;
 }
+
+@media screen and (max-width: 768px) {
+    .key-feature__feature_line_3 {
+        width: 358px;
+    }
+}

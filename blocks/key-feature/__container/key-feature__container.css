@@ -4,5 +4,13 @@
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(570px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    /*grid-template-columns: repeat(2, 50%);*/
+}
+
+
+@media screen and (max-width: 768px) {
+    .key-feature__container {
+        min-height: 650px;
+    }
 }
