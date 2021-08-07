@@ -1,3 +1,10 @@
 .about-agency__table-item-image {
     margin: 0 0 24px 0;
 }
+
+@media screen and (max-width: 540px) {
+    .about-agency__table-item-image {
+        width: 130px;
+        height: 130px;
+    }
+}
