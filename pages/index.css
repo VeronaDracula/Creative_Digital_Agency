@@ -91,6 +91,7 @@
 @import url(../blocks/contacts/__container/contacts__container.css);
 
 @import url(../blocks/form/form.css);
+@import url(../blocks/form/__container/form__container.css);
 @import url(../blocks/form/__data-input/form__data-input.css);
 @import url(../blocks/form/__item/form__item.css);
 @import url(../blocks/form/__label/form__label.css);

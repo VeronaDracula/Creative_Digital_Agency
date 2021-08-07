@@ -1,6 +1,15 @@
 .form__item_type_message {
     width: 100%;
     min-height: 151px;
-    margin: 0 0 46px 0;
-    display: grid;
+    margin: 0;
 }
+
+@media screen and (max-width: 1410px) {
+    .form__item_type_message {
+        width: 370px;
+        margin: 0;
+    }
+}
+
+
+
