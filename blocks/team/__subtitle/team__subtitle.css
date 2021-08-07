@@ -7,3 +7,10 @@
     text-align: center;
     margin: 0 0 74px 0;
 }
+
+@media screen and (max-width: 540px) {
+    .team__subtitle {
+        font-size: 25px;
+        margin: 0 0 54px 0;
+    }
+}
