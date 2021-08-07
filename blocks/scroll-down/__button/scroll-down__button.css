@@ -1,6 +1,6 @@
 .scroll-down__button {
     background: transparent center url("../../../images/scroll-down.svg");
-    background-size: auto;
+    background-size: cover;
     border: none;
     width: 68px;
     height: 68px;
@@ -9,4 +9,11 @@
 .scroll-down__button:hover {
     cursor: pointer;
     opacity: 0.6;
+}
+
+@media screen and (max-width: 540px) {
+    .scroll-down__button {
+        width: 58px;
+        height: 58px;
+    }
 }

@@ -24,3 +24,9 @@
         font-size: 14px;
     }
 }
+
+@media screen and (max-width: 540px) {
+    .header__menu-info-link {
+        font-size: 9px;
+    }
+}

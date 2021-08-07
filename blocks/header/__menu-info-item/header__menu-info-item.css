@@ -45,3 +45,9 @@
         margin-top: 1px;
     }
 }
+
+@media screen and (max-width: 540px) {
+    .header__menu-info-link {
+        margin-right: 2px;
+    }
+}

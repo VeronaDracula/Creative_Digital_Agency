@@ -11,3 +11,9 @@
         min-height: 600px;
     }
 }
+
+@media screen and (max-width: 540px) {
+    .header {
+        min-height: 500px;
+    }
+}

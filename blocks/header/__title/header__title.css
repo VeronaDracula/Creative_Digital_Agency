@@ -28,3 +28,10 @@
         margin-bottom: 29px;
     }
 }
+
+@media screen and (max-width: 540px) {
+    .header__title {
+        font-size: 55px;
+        margin-bottom: 20px;
+    }
+}
