@@ -13,3 +13,9 @@
         padding-right: 10%;
     }
 }
+
+@media screen and (max-width: 540px) {
+    .news__content_theme_light {
+        padding-left: 10%;
+    }
+}
