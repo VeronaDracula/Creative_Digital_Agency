@@ -3,8 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="fdc1d409-1eb1-424d-a91a-6fbd23c99339" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/news/__content/_theme/news__content_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/news/__content/_theme/news__content_theme_dark.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/news/__content/_theme/news__content_theme_light.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/news/__content/_theme/news__content_theme_light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/form/__item/_type/form__item_type_message.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/form/__item/_type/form__item_type_message.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/form/__item/form__item.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/form/__item/form__item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/key-feature/__container/key-feature__container.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/key-feature/__container/key-feature__container.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/key-feature/__feature-text/key-feature__feature-text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/key-feature/__feature-text/key-feature__feature-text.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/key-feature/__feature/_line/key-feature__feature_line_1.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/key-feature/__feature/_line/key-feature__feature_line_1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/key-feature/__feature/_line/key-feature__feature_line_2.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/key-feature/__feature/_line/key-feature__feature_line_2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/key-feature/__feature/_line/key-feature__feature_line_3.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/key-feature/__feature/_line/key-feature__feature_line_3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/key-feature/__text/key-feature__text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/key-feature/__text/key-feature__text.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/quick-action/__container/quick-action__container.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/quick-action/__container/quick-action__container.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +72,7 @@
       <workItem from="1627535724487" duration="2343000" />
       <workItem from="1627720166636" duration="9000" />
       <workItem from="1628149569309" duration="606000" />
-      <workItem from="1628252475809" duration="10164000" />
+      <workItem from="1628252475809" duration="11807000" />
     </task>
     <task id="LOCAL-00001" summary="font-size1">
       <created>1613296424388</created>
@@ -396,15 +403,27 @@
       <option name="project" value="LOCAL" />
       <updated>1628349697767</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="news max-width 540px">
+      <created>1628350119145</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1628350119146</updated>
+    </task>
+    <task id="LOCAL-00049" summary="quick-action max-width 540px">
+      <created>1628350246831</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1628350246831</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="media -&gt; medium2" />
-    <MESSAGE value="media -&gt; medium3" />
     <MESSAGE value="media -&gt; sm + exSm" />
     <MESSAGE value="new files" />
     <MESSAGE value="header-menu" />
@@ -428,17 +447,19 @@
     <MESSAGE value="header max-width 540px" />
     <MESSAGE value="title max-width 540px" />
     <MESSAGE value="about-agency max-width 540px" />
-    <option name="LAST_COMMIT_MESSAGE" value="about-agency max-width 540px" />
+    <MESSAGE value="news max-width 540px" />
+    <MESSAGE value="quick-action max-width 540px" />
+    <option name="LAST_COMMIT_MESSAGE" value="quick-action max-width 540px" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624443497376">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1624443497376" />
-    <state x="595" y="36" width="745" height="725" key="CommitChangelistDialog2" timestamp="1628349696765">
+    <state x="595" y="36" width="745" height="725" key="CommitChangelistDialog2" timestamp="1628350245546">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="595" y="36" width="745" height="725" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1628349696765" />
+    <state x="595" y="36" width="745" height="725" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1628350245546" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1627720173371">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

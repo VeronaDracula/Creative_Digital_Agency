@@ -7,3 +7,9 @@
         width: 330px;
     }
 }
+
+@media screen and (max-width: 540px) {
+    .key-feature__feature_line_2 {
+        width: 260px;
+    }
+}

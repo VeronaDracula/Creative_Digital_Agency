@@ -7,3 +7,9 @@
     margin: 0 0 0 19px;
     text-transform: uppercase;
 }
+
+@media screen and (max-width: 540px) {
+    .key-feature__feature-text {
+        font-size: 13px;
+    }
+}

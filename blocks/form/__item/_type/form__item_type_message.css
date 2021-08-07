@@ -11,5 +11,9 @@
     }
 }
 
-
+@media screen and (max-width: 540px) {
+    .form__item_type_message {
+        width: 280px;
+    }
+}
 

@@ -20,6 +20,6 @@
 
 @media screen and (max-width: 768px) {
     .quick-action__container {
-        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        grid-template-columns: repeat(auto-fit, minmax(287px, 1fr));
     }
 }

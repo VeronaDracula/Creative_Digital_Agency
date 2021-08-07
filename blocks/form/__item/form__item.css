@@ -10,3 +10,9 @@
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
 }
+
+@media screen and (max-width: 540px) {
+    .form__item {
+        width: 280px;
+    }
+}

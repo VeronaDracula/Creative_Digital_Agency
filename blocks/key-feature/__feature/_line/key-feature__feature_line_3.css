@@ -7,3 +7,9 @@
         width: 358px;
     }
 }
+
+@media screen and (max-width: 540px) {
+    .key-feature__feature_line_3 {
+        width: 288px;
+    }
+}
