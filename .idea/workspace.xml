@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdc1d409-1eb1-424d-a91a-6fbd23c99339" name="Default Changelist" comment="team max-width 540px">
-      <change afterPath="$PROJECT_DIR$/blocks/scroll-down/scroll-down.css" afterDir="false" />
+    <list default="true" id="fdc1d409-1eb1-424d-a91a-6fbd23c99339" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__subtitle/header__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__subtitle/header__subtitle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__title/header__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__title/header__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +30,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Restaurant" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -67,14 +63,7 @@
       <workItem from="1627535724487" duration="2343000" />
       <workItem from="1627720166636" duration="9000" />
       <workItem from="1628149569309" duration="606000" />
-      <workItem from="1628252475809" duration="13007000" />
-    </task>
-    <task id="LOCAL-00003" summary="font-size2">
-      <created>1613414490089</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1613414490089</updated>
+      <workItem from="1628252475809" duration="14311000" />
     </task>
     <task id="LOCAL-00004" summary="font-size3">
       <created>1613415172264</created>
@@ -412,14 +401,20 @@
       <option name="project" value="LOCAL" />
       <updated>1628351928022</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="header title max-width 540px">
+      <created>1628352933482</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1628352933482</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="header-menu" />
     <MESSAGE value="header__menu-info-item - hover + подчеркивание" />
     <MESSAGE value="about-agency" />
     <MESSAGE value="news grid" />
@@ -444,28 +439,29 @@
     <MESSAGE value="quick-action max-width 540px" />
     <MESSAGE value="key-feature max-width 540px&#10;contacts max-width 540px" />
     <MESSAGE value="team max-width 540px" />
-    <option name="LAST_COMMIT_MESSAGE" value="team max-width 540px" />
+    <MESSAGE value="header title max-width 540px" />
+    <option name="LAST_COMMIT_MESSAGE" value="header title max-width 540px" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624443497376">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1624443497376" />
-    <state x="595" y="36" width="745" height="725" key="CommitChangelistDialog2" timestamp="1628351938341">
+    <state x="595" y="36" width="745" height="725" key="CommitChangelistDialog2" timestamp="1628352932166">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="595" y="36" width="745" height="725" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1628351938341" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1627720173371">
+    <state x="595" y="36" width="745" height="725" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1628352932166" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1628359436846">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1627720173371" />
-    <state x="662" y="146" key="Vcs.Push.Dialog.v2" timestamp="1628351940620">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1628359436846" />
+    <state x="662" y="146" key="Vcs.Push.Dialog.v2" timestamp="1628352935910">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="662" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1628351940620" />
-    <state x="887" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1623788154652">
+    <state x="662" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1628352935910" />
+    <state x="887" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1628359319592">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="887" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1623788154652" />
+    <state x="887" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1628359319592" />
   </component>
 </project>
