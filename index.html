@@ -290,15 +290,31 @@
                     <form class="form page__container" name="data">
                         <div class="form__container">
                             <div class="form__data-input">
-                                <label for="name" class="form__label"></label>
-                                <input type="text" class="form__item" id="name" name="name" placeholder="Name" required>
-                                <label for="email" class="form__label"></label>
-                                <input type="text" class="form__item" id="email" name="email" placeholder="Email" required>
-                                <label for="phone" class="form__label"></label>
-                                <input type="text" class="form__item" id="phone" name="phone" placeholder="Phone" required>
+                                <div class="form__section">
+                                    <label for="name" class="form__label"></label>
+                                    <input type="text" class="form__item" id="name" name="name" placeholder="Name"
+                                           required minlength="2" maxlength="40">
+                                    <span class="form__input-error" id="name-error"></span>
+                                </div>
+                                <div class="form__section">
+                                    <label for="email" class="form__label"></label>
+                                    <input type="email" class="form__item" id="email" name="email" placeholder="Email"
+                                           required minlength="2" maxlength="40">
+                                    <span class="form__input-error" id="email-error"></span>
+                                </div>
+                                <div class="form__section">
+                                    <label for="phone" class="form__label"></label>
+                                    <input type="tel" class="form__item" id="phone" name="phone" placeholder="Phone format: +7(***)-***-****"
+                                           required minlength="2" maxlength="20" pattern="[+7][0-9]{3}-[0-9]{3}-[0-9]{4}">
+                                    <span class="form__input-error" id="phone-error"></span>
+                                </div>
                             </div>
-                            <label for="message" class="form__label"></label>
-                            <textarea class="form__item form__item_type_message" id="message" rows="3" placeholder="Message" required></textarea>
+                            <div class="form__section">
+                                <label for="message" class="form__label"></label>
+                                <textarea class="form__item form__item_type_message" id="message" placeholder="Message"
+                                          required minlength="2" maxlength="200"></textarea>
+                                <span class="form__input-error form__input-error_type_message" id="message-error"></span>
+                            </div>
                         </div>
                         <button type="submit" class="form__button">submit</button>
                     </form>
@@ -320,5 +336,7 @@
             </div>
         </footer>
     </div>
+    <script type="module" src="./pages/index.js"></script>
+    <script type="module" src="./components/FormValidator.js"></script>
 </body>
 </html>

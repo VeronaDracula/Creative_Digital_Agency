@@ -1,0 +1,10 @@
+.form__input-error_type_message {
+    top: calc(100% + 1px);
+}
+
+
+@media screen and (max-width: 1410px) and (min-width: 925px) {
+    .form__input-error_type_message {
+        top: calc(58% + 1px);
+    }
+}

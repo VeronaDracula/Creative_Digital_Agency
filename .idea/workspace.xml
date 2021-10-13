@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdc1d409-1eb1-424d-a91a-6fbd23c99339" name="Default Changelist" comment="" />
+    <list default="true" id="fdc1d409-1eb1-424d-a91a-6fbd23c99339" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/blocks/form/__button/_inactive/form__button_inactive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/form/__input-error/_active/form__input-error_active.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/form/__input-error/_type/form__input-error_type_message.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/form/__input-error/form__input-error.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/form/__item/_type/form__item_type_error.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/form/__section/form__section.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/FormValidator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/form/__button/form__button.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/form/__button/form__button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/form/__item/form__item.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/form/__item/form__item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/form/form.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/form/form.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -28,7 +43,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mesto" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -65,13 +80,12 @@
       <workItem from="1628359850395" duration="518000" />
       <workItem from="1628360426089" duration="32000" />
       <workItem from="1628360546243" duration="86000" />
-    </task>
-    <task id="LOCAL-00006" summary="media -&gt; medium">
-      <created>1613991726410</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1613991726410</updated>
+      <workItem from="1628413911462" duration="58000" />
+      <workItem from="1631303643542" duration="1481000" />
+      <workItem from="1631707388973" duration="1811000" />
+      <workItem from="1632119932772" duration="632000" />
+      <workItem from="1632424060912" duration="465000" />
+      <workItem from="1634020834398" duration="15444000" />
     </task>
     <task id="LOCAL-00007" summary="media -&gt; medium">
       <created>1613992104331</created>
@@ -409,14 +423,20 @@
       <option name="project" value="LOCAL" />
       <updated>1628360570622</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="classes menu delete">
+      <created>1628413961748</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1628413961748</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="news grid" />
     <MESSAGE value="key-feature" />
     <MESSAGE value="team names" />
     <MESSAGE value="images" />
@@ -441,28 +461,25 @@
     <MESSAGE value="header title max-width 540px" />
     <MESSAGE value="news images" />
     <MESSAGE value="delete files" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete files" />
+    <MESSAGE value="classes menu delete" />
+    <option name="LAST_COMMIT_MESSAGE" value="classes menu delete" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624443497376">
+    <state x="595" y="36" width="745" height="725" key="CommitChangelistDialog2" timestamp="1628413961323">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1624443497376" />
-    <state x="595" y="36" width="745" height="725" key="CommitChangelistDialog2" timestamp="1628360569875">
+    <state x="595" y="36" width="745" height="725" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1628413961323" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1634147972666">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="595" y="36" width="745" height="725" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1628360569875" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1628359436846">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1634147972666" />
+    <state x="662" y="146" key="Vcs.Push.Dialog.v2" timestamp="1628413965541">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1628359436846" />
-    <state x="662" y="146" key="Vcs.Push.Dialog.v2" timestamp="1628360575089">
+    <state x="662" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1628413965541" />
+    <state x="887" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1631896090148">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="662" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1628360575089" />
-    <state x="887" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1628359319592">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="887" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1628359319592" />
+    <state x="887" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1631896090148" />
   </component>
 </project>

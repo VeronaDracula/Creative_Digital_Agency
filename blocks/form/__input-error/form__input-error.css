@@ -1,0 +1,20 @@
+.form__input-error {
+    position: absolute;
+    left: 0;
+    top: calc(54% + 1px);
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: #11749e;
+
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+@media screen and (max-width: 540px) {
+    .form__input-error {
+        top: calc(54% + 2px);
+        font-size: 12px;
+    }
+}

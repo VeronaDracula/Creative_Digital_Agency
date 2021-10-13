@@ -1,4 +1,5 @@
 .form__button {
+    box-sizing: border-box;
     background: #11749e;
     width: 227px;
     height: 64px;

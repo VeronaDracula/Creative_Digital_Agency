@@ -6,6 +6,11 @@
     padding-left: 21px;
     margin: 0 0 39px 0;
 
+    font-size: 15px;
+    line-height: 24px;
+    color: #fff;
+    font-family: "Gotham", sans-serif;
+
     box-sizing: border-box;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
