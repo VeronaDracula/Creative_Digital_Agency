@@ -1,3 +1,5 @@
+import './index.css';
+
 import {FormValidator} from '../components/FormValidator.js'
 
 //селекторы для валидации
