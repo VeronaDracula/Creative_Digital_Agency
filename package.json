@@ -1,0 +1,39 @@
+{
+  "name": "creative_digital_agency",
+  "version": "1.0.0",
+  "description": "Проект представляет собой статический одностраничный адаптивный сайт.    \r Для подключения разместите родительский каталог на веб-сервере.      \r Стек технологий: HTML, CSS, Grid Layout, Flexbox, БЭМ.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack serve",
+    "build": "webpack  --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VeronaDracula/Creative_Digital_Agency.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VeronaDracula/Creative_Digital_Agency/issues"
+  },
+  "homepage": "https://github.com/VeronaDracula/Creative_Digital_Agency#readme",
+  "devDependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "autoprefixer": "^10.3.7",
+    "babel-loader": "^8.2.2",
+    "clean-webpack-plugin": "^4.0.0",
+    "css-loader": "^6.4.0",
+    "cssnano": "^5.0.8",
+    "gh-pages": "^3.2.3",
+    "html-webpack-plugin": "^5.4.0",
+    "mini-css-extract-plugin": "^2.4.2",
+    "postcss-loader": "^6.2.0",
+    "webpack": "^5.58.2",
+    "webpack-cli": "^4.9.0",
+    "webpack-dev-server": "^4.3.1"
+  },
+  "dependencies": {
+    "core-js": "^3.18.3"
+  }
+}
